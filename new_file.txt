@@ -1,5 +1,6 @@
 this is a test file. 
 Git is free.
 Add 3rd line.
-add 4th line.
+merged content from master and dev
+
 
